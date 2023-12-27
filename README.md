@@ -1,4 +1,4 @@
-🤖 **AI Engineer | Deep Learning Enthusiast**
+🤖 ***AI Engineer | Deep Learning Enthusiast***
 
 Passionate about leveraging cutting-edge technologies to solve complex problems. 🚀 My expertise spans Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN/LSTM/GRU), Transformers, and ResNets.
 
