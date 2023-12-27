@@ -4,10 +4,10 @@
 🚀 Passionate about leveraging cutting-edge technologies to solve the complex real-world problems and make a positive impact.
 
 ## 🔬 Skills:
-- **Deep Learning:** Specialized in designing and implementing CNN architectures for computer vision tasks.
-- **Sequential Models:** Proficient in building and fine-tuning RNNs, LSTMs, and GRUs for sequential data analysis.
+- **Deep Learning:** Fundamental Knowledge of CNN architectures for computer vision tasks.
+- **Sequential Models:** Conceptual Understanding of  RNNs, LSTMs, and GRUs for sequential data analysis.
 - **Transformer Architectures:** Experienced in harnessing the power of Transformer models for natural language processing and beyond.
-- **Residual Networks (ResNets):** Adept at constructing and optimizing ResNet structures for efficient and accurate feature extraction.
+- **Residual Networks (ResNets):** Understanding of ResNet structures for efficient and accurate feature extraction.
 
 ## 🛠️ Tools & Frameworks:
 - **TensorFlow & PyTorch:** Expertise in both major deep learning frameworks, ensuring flexibility and proficiency in model development.
