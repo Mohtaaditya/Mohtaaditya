@@ -10,12 +10,12 @@
 - **Residual Networks (ResNets):** Understanding of ResNet structures for efficient and accurate feature extraction.
 
 ## 🛠️ Tools & Frameworks:
-- **TensorFlow & PyTorch:** Expertise in both major deep learning frameworks, ensuring flexibility and proficiency in model development.
+- **TensorFlow & PyTorch:** Comfortable with both major deep learning frameworks, ensuring flexibility and proficiency in model development.
 - **OpenCV:** Practical knowledge of computer vision tasks through the OpenCV library.
 
 ## 📚 Education:
-- B.Tech. (pursuing) in Computer Science and Engineering| Government Engineering College Bikaner 
-
+- B.Tech. in Computer Science and Engineering (pursuing) | Government Engineering College Bikaner | 2024
+- 
 ## 📫 Contact:
 - LinkedIn: https://www.linkedin.com/in/aditya-kumar-mohta
 
