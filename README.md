@@ -4,9 +4,15 @@
 🚀 Passionate about leveraging cutting-edge technologies to solve the complex real-world problems and make a positive impact.
 
 ## 🔬 Skills:
-- **Deep Learning:** Fundamental Knowledge of CNN architectures for computer vision tasks.
+
+- **Machine Learning:** Solid foundation in classical ML algorithms and a keen interest in exploring the depths of deep learning.
+- 
+- **Deep Learning:** Familiar with concepts of CNNs, RNNs, Transformers, and ResNets through  Experience and coursework.
+- 
 - **Sequential Models:** Conceptual Understanding of  RNNs, LSTMs, and GRUs for sequential data analysis.
+- 
 - **Transformer Architectures:** Experienced in harnessing the power of Transformer models for natural language processing and beyond.
+- 
 - **Residual Networks (ResNets):** Understanding of ResNet structures for efficient and accurate feature extraction.
 
 ## 🛠️ Tools & Frameworks:
