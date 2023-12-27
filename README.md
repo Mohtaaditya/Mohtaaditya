@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Mohtaaditya | 🤖 AI Engineer | Deep Learning Enthusiast
+- 👋 Hi, I’m @Mohtaaditya |
+- 🤖 AI Engineer | Deep Learning Enthusiast
 
 🚀 Passionate about leveraging cutting-edge technologies to solve the complex real-world problems and make a positive impact.
 
